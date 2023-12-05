@@ -38,7 +38,8 @@ SerpAPI es una herramienta poderosa que permite acceder a los resultados de bús
     
     `https://serpapi.com/search?api_key=*********&q=5 lenguajes de programacion mas utilizados en 2023`
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/24a85244-2dda-46f9-b73c-e1372a703e75/294237fc-9346-4562-a980-c2e7661d4171/Untitled.png)
+    ![imagen](https://github.com/Amhernandez5508/digital-nao-challenge1/assets/121590490/2f18a28e-5605-4943-bcd3-4cca908eab80)
+
     
 - Integración con Java:
     
@@ -65,14 +66,14 @@ SerpAPI es una herramienta poderosa que permite acceder a los resultados de bús
     ```
     
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/24a85244-2dda-46f9-b73c-e1372a703e75/bc8865b0-93a1-4c18-b657-c8a57cf198a6/Untitled.png)
+![imagen](https://github.com/Amhernandez5508/digital-nao-challenge1/assets/121590490/bef88915-f473-44ec-b95f-443c08389c8b)
 
 Referencias:
 - https://serpapi.com/
 - https://serpapi.com/search-api
 - https://learn.microsoft.com/es-es/azure/machine-learning/prompt-flow/tools-reference/serp-api-tool?view=azureml-api-2
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/24a85244-2dda-46f9-b73c-e1372a703e75/e4faf275-84c5-4389-b207-ba6111b1edf7/Untitled.png)
+![imagen](https://github.com/Amhernandez5508/digital-nao-challenge1/assets/121590490/645e2dca-b347-49eb-a1d0-b566c4290433)
 
 ---
 
@@ -112,7 +113,7 @@ La API de Google Scholar es una herramienta valiosa para acceder a la base de da
     
     `https://serpapi.com/search?engine=google_scholar&api_key=*********&q="desarrollo de software”`
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/24a85244-2dda-46f9-b73c-e1372a703e75/3a5521a8-876c-48de-911a-b95a3fd50e8b/Untitled.png)
+    ![imagen](https://github.com/Amhernandez5508/digital-nao-challenge1/assets/121590490/00df9c54-3775-4cef-9d91-bd05a04c9991)
     
 - Integración con Java:
     
@@ -143,3 +144,6 @@ La API de Google Scholar es una herramienta valiosa para acceder a la base de da
 
 - https://serpapi.com/
 - https://serpapi.com/google-scholar-api
+
+  ![imagen](https://github.com/Amhernandez5508/digital-nao-challenge1/assets/121590490/295be4a9-53ca-4622-883e-b3cc9d25d1e1)
+
