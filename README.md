@@ -65,15 +65,14 @@ SerpAPI es una herramienta poderosa que permite acceder a los resultados de bús
     }
     ```
     
-
-![imagen](https://github.com/Amhernandez5508/digital-nao-challenge1/assets/121590490/bef88915-f473-44ec-b95f-443c08389c8b)
+![imagen](https://github.com/Amhernandez5508/digital-nao-challenge1/assets/121590490/cd0d999d-f785-40d0-b1f4-d97cb5a8f760)
 
 Referencias:
 - https://serpapi.com/
 - https://serpapi.com/search-api
 - https://learn.microsoft.com/es-es/azure/machine-learning/prompt-flow/tools-reference/serp-api-tool?view=azureml-api-2
 
-![imagen](https://github.com/Amhernandez5508/digital-nao-challenge1/assets/121590490/645e2dca-b347-49eb-a1d0-b566c4290433)
+![imagen](https://github.com/Amhernandez5508/digital-nao-challenge1/assets/121590490/bef88915-f473-44ec-b95f-443c08389c8b)
 
 ---
 
@@ -112,8 +111,8 @@ La API de Google Scholar es una herramienta valiosa para acceder a la base de da
 - Petición GET a endpoint:
     
     `https://serpapi.com/search?engine=google_scholar&api_key=*********&q="desarrollo de software”`
-    
-    ![imagen](https://github.com/Amhernandez5508/digital-nao-challenge1/assets/121590490/00df9c54-3775-4cef-9d91-bd05a04c9991)
+
+    ![imagen](https://github.com/Amhernandez5508/digital-nao-challenge1/assets/121590490/645e2dca-b347-49eb-a1d0-b566c4290433)
     
 - Integración con Java:
     
