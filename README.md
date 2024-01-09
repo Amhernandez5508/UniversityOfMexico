@@ -6,6 +6,8 @@
 
 <p><strong>Para esta tarea se utilizó un patron de diseño MVC con Java y JDBC para la conexión con la base de datos MySQL. Asi mismo, se aplicaron buenas practicas de desarrollo y una correcta separación de incumbencias de acuerdo al patron Modelo-Vista-Controlador.</p></strong>
 
+![imagen](https://github.com/Amhernandez5508/UniversityOfMexico/assets/121590490/779575e6-a55a-4958-bc76-c1c9a70e1ab4)
+
 <h3>Tecnologias utilizadas:</h3>
 <ul><strong>
 <li>Java</li>
