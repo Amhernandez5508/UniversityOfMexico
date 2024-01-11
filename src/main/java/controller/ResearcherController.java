@@ -27,7 +27,7 @@ public class ResearcherController {
         switch (selection) {
             case 1:
                 // Retrieve top 10 researchers' data using SerpApiService
-                System.out.println("\nRecuperando datos...");
+                UserInterface.showMessage("\nRecuperando datos...");
                 top10Researchers = SerpApiService.getTop10Researchers();
 
                 // Save retrieved researchers to the database using ResearcherService

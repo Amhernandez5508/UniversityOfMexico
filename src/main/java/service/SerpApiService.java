@@ -38,7 +38,7 @@ public class SerpApiService {
         Researcher researcherAux;
         List<Researcher> researchers = new ArrayList<>();
         Map<Integer, String> profilesIDs = getProfilesIdsByTag("Universidad de Mexico");
-        Map<String, Object> dataAuthor = new HashMap<>();
+        Map<String, Object> dataAuthor;
 
         // Loop through the profiles to gather data of top researchers
         for (int i = 0; i < 10; i++) {
