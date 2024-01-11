@@ -14,7 +14,7 @@ Datos obtenidos el jueves 11/01/2024:
 
 <p>Se observa un incremento en los "cited_by" de los investigadores. Esto se debe a que los datos se obtienen en tiempo real, lo que permite obtener todo tipo de información actualizada de los mismos.</p>
 
-<hl>
+<hr>
 <h3>Tecnologias utilizadas:</h3>
 <ul><strong>
 <li>Java</li>
