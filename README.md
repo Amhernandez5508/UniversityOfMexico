@@ -6,8 +6,15 @@
 
 <p><strong>Para esta tarea se utilizó un patron de diseño MVC con Java y JDBC para la conexión con la base de datos MySQL. Asi mismo, se aplicaron buenas practicas de desarrollo y una correcta separación de incumbencias de acuerdo al patron Modelo-Vista-Controlador.</p></strong>
 
+Datos obtenidos el martes 09/01/2024:
 ![imagen](https://github.com/Amhernandez5508/UniversityOfMexico/assets/121590490/779575e6-a55a-4958-bc76-c1c9a70e1ab4)
 
+Datos obtenidos el jueves 11/01/2024:
+![imagen](https://github.com/Amhernandez5508/UniversityOfMexico/assets/121590490/da0d62a0-e5d5-4989-9e67-9912b555a99c)
+
+<p>Se observa un incremento en los "cited_by" de los investigadores. Esto se debe a que los datos se obtienen en tiempo real, lo que permite obtener todo tipo de información actualizada de los mismos.</p>
+
+<hl>
 <h3>Tecnologias utilizadas:</h3>
 <ul><strong>
 <li>Java</li>
