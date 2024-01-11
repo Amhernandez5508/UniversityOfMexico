@@ -12,7 +12,7 @@ Datos obtenidos el martes 09/01/2024:
 Datos obtenidos el jueves 11/01/2024:
 ![imagen](https://github.com/Amhernandez5508/UniversityOfMexico/assets/121590490/da0d62a0-e5d5-4989-9e67-9912b555a99c)
 
-<p><i>Se observa un incremento en los "cited_by" de los investigadores. Esto se debe a que los datos se obtienen en tiempo real, lo que permite obtener todo tipo de información actualizada de los mismos.</i></p>
+<p><i>Se observa un incremento en los "cited_by" de los investigadores y un cambio de posición entre algunos. Esto se debe a que los datos se obtienen en tiempo real, lo que permite obtener todo tipo de información actualizada de los mismos.</i></p>
 
 <hr>
 <h3>Tecnologias utilizadas:</h3>
